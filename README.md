@@ -30,13 +30,15 @@ Led the game development from prototyping phase to late production. I did the im
 ### 3. Orbit Outlaws at Innovations Media, 2018-2019 :
 
 I led the project from a small limited experience to a dynamic experience with different game modes, vehicle configurations, multiplayer support, while improving performance and making systems simpler and extensible.
-https://www.youtube.com/watch?v=YU-JoHlD3X4
+
+- https://www.youtube.com/watch?v=YU-JoHlD3X4
 
 
 ### 4. Quantum Replica at On3D Studios, 2016-2017:
 
 I supported the development of game development, implemented some of the movement system, minigames, UI and mission system. I also did a bit of engine development for porting to consoles and improving loading screen animations and handling per-platform button icons.
-https://www.youtube.com/watch?v=G1kT2wGcXWg
+
+- https://www.youtube.com/watch?v=G1kT2wGcXWg
 
 ### 5. Older Flash projects:
 I did multiple experiences in Flash that I don’t have links to show, but mainly consist on:
