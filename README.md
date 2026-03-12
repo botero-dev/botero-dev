@@ -2,25 +2,35 @@ Andrés Botero
 =============
 
 I’m a software and game developer with diverse experience and interested in low level engine programming.
+Check the engine I'm working on: https://github.com/botero-dev/sdl-odin-boilerplate
 
 
 A. Work Experience:
 -------------------
 
-### 1. Battle Road:
+### Current: Senior Embedded Enginer at Qubika
+I work with a Qubika partner in the customer diagnostics team. We develop a suite of tools to test and benchmark custom hardware through the stages of development of the product.
+
+
+### 1. Battle Road, 2022-2025:
 We’re making a 3D globe scale game board for wargaming. This project is being developed on top of Godot Engine. I implemented the system for drawing a 3D globe that loads tiles from different data sources at different LODs, and puts all of this together into a beautifully rendered 3D globe. I also worked on some other tools related to 3D polygon drawing, OpenStreetMap buildings rendering, and loading vector data from GeoServer to Godot’s navmesh system.
 https://www.youtube.com/watch?v=N215eneOTN8
 
-### 2. Halfwit Heroes, Almighty Idiots at Pump Action Games:
+
+### 2. Halfwit Heroes, Almighty Idiots at Pump Action Games, 2020-2022:
+
 Led the game development from prototyping phase to late production. I did the implementation of early systems, like 3D movement and behavior tree AI. Also implemented progression and tutorial systems, save games and back end connection. Unfortunately the game was canceled by the publisher.
 https://www.youtube.com/watch?v=RVSA4TGc7fw&t=157s
 https://www.youtube.com/watch?v=SZOb6B0kMA8&t=297s
 
-### 3. Orbit Outlaws at Innovations Media:
+### 3. Orbit Outlaws at Innovations Media, 2018-2019 :
+
 I led the project from a small limited experience to a dynamic experience with different game modes, vehicle configurations, multiplayer support, while improving performance and making systems simpler and extensible.
 https://www.youtube.com/watch?v=YU-JoHlD3X4
 
-### 4. Quantum Replica at On3D Studios:
+
+### 4. Quantum Replica at On3D Studios, 2016-2017:
+
 I supported the development of game development, implemented some of the movement system, minigames, UI and mission system. I also did a bit of engine development for porting to consoles and improving loading screen animations and handling per-platform button icons.
 https://www.youtube.com/watch?v=G1kT2wGcXWg
 
@@ -32,6 +42,11 @@ I did multiple experiences in Flash that I don’t have links to show, but mainl
 
 B. Personal Projects:
 ---------------------
+
+### SDL+Odin Cross Platform Engine: https://github.com/botero-dev/sdl-odin-boilerplate
+Following my personal interest on graphics development and low level engineering. I was compelled to write an engine from scratch using Odin language and SDL low level library.
+Here, I'm implementing every building block to make an engine. For now I'm implementing a 2D engine with input handling, UI navigation, asset loading, etc. This engine is also aimed at multi platform development, as SDL allows publishing to PC, mobile, TV and web devices with a single codebase.
+
 
 ### 1. Game: BoliFrog, 2022, in development, Godot. https://instagram.com/bolifrog
 
